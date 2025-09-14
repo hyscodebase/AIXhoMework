@@ -1,0 +1,6 @@
+*.csv
+*.pdf
+**/rawfiles
+**/textbook
+.venv
+.idea
